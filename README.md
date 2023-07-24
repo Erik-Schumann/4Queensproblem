@@ -1,6 +1,6 @@
 # 4Queensproblem
 
-In the 4 Queens Problem each quuen has 3 constraints to th eother queens:
+In the 4 Queens Problem each quuen has 3 constraints to the other queens:
 1. There should not be another queen in the same column (we prevent this by modelliung that each queen will be able to place into its individual column)
 2. There should not be another queen in the same row
 3. There should not be another queen in the same diagonal
